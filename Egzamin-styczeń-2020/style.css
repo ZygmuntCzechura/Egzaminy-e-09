@@ -1,0 +1,43 @@
+body{
+	margin:0px;
+	font-family:Garamond;
+}
+header{
+	background-color:#3CB371;
+	font-size:130%;
+	text-align:center;
+	color:White;
+	padding:10px;
+}
+footer{
+	color:white;
+	text-align:center;
+	padding:10px;
+	background-color:#3CB371;
+	font-size:120%;
+}
+main{
+	display:flex;
+	justify-content:flex-start;
+	background-color:#FAEBD7;
+	height:450px;
+}
+img{
+	width:450px;
+	height:400px;
+	margin:15px;
+	border:2px #3CB371  dashed;
+	padding:3px;
+}
+div{
+	width:55%;
+}
+section{
+	width:45%;
+}
+.margin-left{
+	margin-left:20px;
+}
+ol{
+	font-weight:normal;
+}
